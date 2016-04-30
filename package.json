@@ -1,0 +1,14 @@
+{
+  "name": "configaro",
+  "description": "Simple tool to load config files",
+  "version": "0.0.3",
+  "author": "Roman Ziva <roman.ziva@gmail.com>",
+  "keywords": [
+    "config",
+    "loader"
+  ],
+  "repository": "thealien/configaro",
+  "dependencies": {
+    "merge-recursive": "0.0.3"
+  }
+}
